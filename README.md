@@ -1,6 +1,7 @@
 Hi, I'm Leandro Paixão 🚀
-SaaS & Cloud Architect | AI-Native DevOps Engineer
-```
+**SaaS & Cloud Architect | AI-Native DevOps Engineer**
+
+```text
  ┌────────────────────────────────────────────────────────┐
  │                 PORTFOLIO ARCHITECTURE                 │
  └───────────────────────────┬────────────────────────────┘
